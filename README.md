@@ -25,6 +25,6 @@
 <h2>To see my projects, scroll down to my pinned repositories 😁 / Para ver mis proyectos, bajar hasta mis repositorios fijados 😁</h2>
 
 <li> My portfolio / Mi portafolio: https://maxisanchezp.github.io/portfolio-msanchez/</li>
-<li> Weather App / App para consultar el clima: [https://maxisanchezp.github.io/portfolio-msanchez](https://maxisanchezp.github.io/weather-app/)https://maxisanchezp.github.io/weather-app//</li>
+<li> Weather App / App para consultar el clima: https://maxisanchezp.github.io/weather-app/</li>
 </body>
 </html>
