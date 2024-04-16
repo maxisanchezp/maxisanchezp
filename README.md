@@ -26,5 +26,6 @@
 
 <li> My portfolio / Mi portafolio: https://maxisanchezp.github.io/portfolio-msanchez/</li>
 <li> Weather App / App para consultar el clima: https://maxisanchezp.github.io/weather-app/</li>
+<li> Weather App / App para consultar el clima: https://maxisanchezp.github.io/ToDoList_msanchez</li>
 </body>
 </html>
