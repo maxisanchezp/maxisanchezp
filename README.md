@@ -27,7 +27,7 @@
 <li> My portfolio / Mi portafolio: https://maxisanchezp.github.io/portfolio-msanchez/</li>
 <li> Weather App / App para consultar el clima: https://maxisanchezp.github.io/weather-app/</li>
 <li> ToDo List: https://maxisanchezp.github.io/ToDoList_msanchez</li>
-<li> <a src="https://maxisanchezp.github.io/rpgGame/">RPG Game</a></li>
+<li> <a href="https://maxisanchezp.github.io/rpgGame/">RPG Game</a></li>
 
 
 </body>
