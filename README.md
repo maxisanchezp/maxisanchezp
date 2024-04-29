@@ -24,10 +24,10 @@
 <hr>
 <h2>To see my projects, scroll down to my pinned repositories 😁 / Para ver mis proyectos, bajar hasta mis repositorios fijados 😁</h2>
 
-<li> My portfolio / Mi portafolio: https://maxisanchezp.github.io/portfolio-msanchez/</li>
-<li><a href= "https://maxisanchezp.github.io/weather-app" target=_blank>Weather App / App para consultar el clima:</a>/</li>
-<li><a href="https://maxisanchezp.github.io/ToDoList_msanchez">To-Do List</a></li>
-<li><a href="https://maxisanchezp.github.io/rpgGame/">RPG Game</a></li>
+<li> <a href="https://maxisanchezp.github.io/portfolio-msanchez" target="_blank">My portfolio / My portfolio</a></li>
+<li><a href= "https://maxisanchezp.github.io/weather-app" target="_blank">Weather App / App para consultar el clima:</a>/</li>
+<li><a href="https://maxisanchezp.github.io/ToDoList_msanchez" target="_blank">To-Do List</a></li>
+<li><a href="https://maxisanchezp.github.io/rpgGame/" target="_blank">RPG Game</a></li>
 
 
 </body>
