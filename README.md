@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1 align = "center" >Hi there, I'm Maximiliano Sánchez 👋 / Hola, me llamo Maximiliano Sánchez👋</h1>
-    <p align = "center" >I'm a Junior Developer from Paraguay / Soy un desarrollador Junior de Paraguay</p>
+    <p align = "center" >I'm a Junior  Front End / Python Developer from Paraguay / Soy un Desarrollador Front End / Python Junior de Paraguay</p>
   <hr>
   <li>
     📩 Contact me / Contactame en: maxisanchez2001py@gmail.com
