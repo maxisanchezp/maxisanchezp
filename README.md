@@ -1,32 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1 align = "center" >Hi there, I'm Maximiliano Sánchez 👋 / Hola, me llamo Maximiliano Sánchez👋</h1>
-    <p align = "center" >I'm a Python Developer from Paraguay / Soy un Desarrollador Python de Paraguay</p>
-  <hr>
-  <li>
-    📩 Contact me / Contactame en: maxisanchez2001py@gmail.com
-  </li>
-  <hr>
-  <h2>Languages and Tools / Lenguajes y Herramientas</h2>
-   <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git" width="40" height="40" style="max-width: 100%;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" `  alt="postgresql" width="40" height="40" style="max-width: 100%;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  width="40" height="40" style="max-width: 100%;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
-    </div>
-<hr>
-<h2>To see my deployed projects, scroll down to my pinned repositories 😁 / Para ver mis proyectos deployeados, bajar hasta mis repositorios fijados 😁</h2>
+# 💫 About Me:
+👋 Hi, I'm Maximiliano Sánchez<br>I'm a Python backend developer from Paraguay passionate about building scalable, efficient, and maintainable web applications. I specialize in Django, REST API development, and data-driven solutions, and I enjoy turning complex problems into clean code.<br>Currently, I’m focused on:<br>    Building custom backend solutions with Django<br>    Automating tasks with Python<br>    Improving my skills in software architecture and testing.
 
-<li><a href= "https://maxisanchezp.github.io/weather-app" target="_blank">Weather App / App para consultar el clima</a></li>
-<li><a href="https://maxisanchezp.github.io/ToDoList_msanchez" target="_blank">To-Do List</a></li>
-<li><a href="https://maxisanchezp.github.io/rpgGame/" target="_blank">RPG Game</a></li>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maxisanchezp_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxisanchezp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maxisanchez2001py@gmail.com) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=maxisanchezp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=maxisanchezp&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxisanchezp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</body>
-</html>
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=maxisanchezp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=maxisanchezp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
+---
+[![](https://visitcount.itsvg.in/api?id=maxisanchezp&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
