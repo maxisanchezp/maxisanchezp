@@ -1,5 +1,11 @@
-# 💫 About Me:
-👋 Hi, I'm Maximiliano Sánchez<br>I'm a Python backend developer from Paraguay passionate about building scalable, efficient, and maintainable web applications. I specialize in Django, REST API development, and data-driven solutions, and I enjoy turning complex problems into clean code.<br>Currently, I’m focused on:<br>    Building custom backend solutions with Django<br>    Automating tasks with Python<br>    Improving my skills in software architecture and testing.
+# 👋🏻 About Me:
+Hi, I'm Maximiliano Sánchez.  
+I'm a Python backend developer from Paraguay, passionate about building scalable and maintainable web applications. I specialize in Django, REST APIs, and data-driven solutions, turning complex problems into clean code.
+
+Currently, I focus on:  
+- Building custom backend solutions with Django  
+- Automating tasks with Python  
+- Improving software architecture and testing skills
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxisanchezp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maxisanchezp_)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maxisanchez2001py@gmail.com) 
